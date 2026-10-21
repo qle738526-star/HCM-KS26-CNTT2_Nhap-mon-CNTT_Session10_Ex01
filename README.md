@@ -1,5 +1,4 @@
 # HCM-KS26-CNTT2_Nhap-mon-CNTT_Session10_Ex01
-# Bài 7: Làm chủ cú pháp Markdown cơ bản
 
 ## Phần 1: Phân tích các lỗi cú pháp
 
